@@ -1,5 +1,1 @@
 Lima Optimizer - keys sem acesso. Gerado pelo bot; nao edite a mao.
-# revoked 2026-10-09
-extend:triiste:43b45d12:lifetime
-extend:triiste:f4faeafc:lifetime
-# revoked 2026-10-10
